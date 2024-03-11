@@ -1,0 +1,153 @@
+https://www.cssmatic.com >> it shows u css effects , four of them : border-radius box-shadow gradient noise-texture
+
+http://css3generator.com >> another site but with more functionallity but its con is it doesnt support sliders only handwitten
+
+https://codepen.io >> u can take an idea from this website , anyway its cloude ide
+
+https://coolors.co >> a website generates a palette randomally and the color u loved , just lock it and hit space
+
+keyframes.app >> its a website to animate the thing and it give it back to u as a code
+
+haikei.app >> good site to make png and svg
+
+bgjar.com >> also for svg and png
+
+smooth shadow  >> ...
+
+https://nucleoapp.com >> it a site for icons
+
+https://liveweave.com >> great website for frontend it has ide for html,css,JS and it has CSS SETTING
+
+jotform.com >> has templates for websites making
+
+speedcoder >> trainning for code writting
+
+typing.io >> trainning for code writting 
+
+https://mycolor.space >> it creates palettes of colors by inculding one color u want 
+
+https://magician.design >> it's for figm software only and it creates things by human talk
+
+fontjoy.com >> creates fonts by slider of contrast and so on
+
+https://cheatography.com/programming/ >> for cheat sheets for programming or u can back they have
+more than progrmming ...etc
+
+galileo.ai  >> .......
+
+https://excalidraw.com >> it is a site create hand-drawing u can use it in website or something like that
+
+grabient >> is a site has a good package of gradients
+
+https://omatsuri.app/ >> this is a very powerful site that has many things and u porbally need it it has much sympoles to use and copy in different formats
+it all kewboard events inside it and it has all shapes of mouse crusor it has gradients and gradients generator and trianle generator and convertor
+
+https://www.wondershare.net/ >> it is a a site has many utilites that help in making presenations nd visual effects so the learnin is easier 
+btw it has many editions for varity of fields
+
+[those are package for sites host website for free and so on:
+vercel >>
+netlify
+aws [free tier]
+github pages
+]
+
+https://m3.material.io/ [material desgin] >> this is  site helps in desgins and so on i think it is mainly related with UI and UX btw i couldnt use it i think i need a guide
+
+https://developer.apple.com/design/human-interface-guidelines[human interface guidelines] >> and this is another one and i also couldnt use it
+
+vercel.com >> also a one
+
+https://spectrum.adobe.com/ >> another one
+
+lightningdesginsystem >> ..........
+
+lumen >> vedio creation or somehing like that
+
+promptitude.io >> it is said that a site helps u uses chagpt in ur porject and applications
+
+[
+those are typography libs<sites>:
+uncut.wtf >> it looks like fonts or something like that
+typespiration >> ....
+letterfrom archive >>........
+type scale >> .............
+copy char >>.......
+fontsninja >>..........
+ ]
+
+usechannel.com >> this site looks so powerful but it is still in beta version ,this site takes ur database as input and u can ask him about any question
+and he will answer u , he will be like personal data analysist
+
+mindsdb >> site for machine learning
+
+https://www.codingame.com/ >> it is like code signal site but for gaming development
+
+chatabc.ai >> it is a site based on chat gpt where it is chat gpt but with more features
+
+https://10web.io/ >> site to build a site from scratch by wordpress
+
+https://hellotars.com/ >> site for chatbots
+
+https://www.codewars.com/ >> a site like code signal but it looks harder 
+
+https://www.frontendmentor.io/challenges >> this site has challnges for frontend it gaves u the challenge then u can upload it when ever u want
+and it gives u the items u need after u upload it it shows u the others result[codes]
+
+https://leetcode.com/ >> and this another one like codewars
+
+https://code2flow.com/ >> makes flowcharts of ur code has limit 50 nodes for free account
+
+https://exercism.org/ >> code site like code signal and others but it looks it suits us becuase of its easeness
+
+https://www.codechef.com/ >> is an open source for code problems
+
+https://edabit.com/ >> ...............
+
+https://www.hackerrank.com/ >> ...............
+
+Tinkercad >> this is a site for breadboards but it looks they are things for robotic , so igonred for now
+
+cssbattle.dev >> as its name says
+
+learnprompt.org >>teaches u how to do good prompt
+
+https://www.coursebox.ai/ >> it is a site where it makes everything for u by ai if u want to make a full cover course
+
+lovo.ai >> has realistic ai voices
+
+https://www.blobmaker.app/ >> makes blobs of SVG
+
+https://flatuicolors.com/ >> check this site out
+
+https://mockuphone.com/ >> and this
+
+csshero.org >> a site for css utils
+	csshero.org/mesher >> a util for excusive gradient colors
+
+lipsum.com >> gives lorem but even in arabic
+
+picsum.com >> placeholder for images
+
+logoipusm.com >> placeholder for logos
+
+ui8.net >> a site to make ur own illustration image by things built in
+
+fake filler >> auto fill the input fields , it is good at testing 
+
+https://carbon.now.sh/ >> good site to take snippet of codes and it can be used in docs code-toggle
+
+https://htmlrev.com/ >> site for templates of sites and html
+
+https://uiverse.io/ >> Open-Source UI elements for any project
+
+https://quickref.me/ >> reference of syntax in languages
+
+https://resumake.io/ >> makes resumes for u
+
+streamlinehq >> for icons
+round icons >> ...
+nucleoapp >> ...
+nounproject >> ...
+iconmonstr >> ...
+
